@@ -1,6 +1,5 @@
 import os
 import json
-import datetime
 from flask import Flask, render_template
 
 import config
